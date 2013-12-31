@@ -13,7 +13,7 @@ def print_board(gamespaces)
   puts 
   puts
 end 
-
+#
 # This method maps out all the winning combinations and sets value of the winner variable that is used in the loop below.  
 # I'm sure there is a more condensed way to check for winners, but this is what I have.
 # In addition, I made the x and o values capitalize the characters winning row to make the final board nicer/easier to look at
